@@ -2,7 +2,9 @@
 simple lit-html and lit-element starter without bundler
 
 ### without bundler?
-yes, using js native module system and pika web_modules folder
+yes, using js native module system and [pika](https://www.pika.dev/about/) web_modules folder
+
+### dependencies
 - [@pika/web](https://github.com/pikapkg/web) for web_modules
 - [browser-sync](https://github.com/BrowserSync/browser-sync) for live reload server
 
