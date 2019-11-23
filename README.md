@@ -14,6 +14,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#Browser_su
 
 ### get started
 ```console
+git clone https://github.com/roquef/lit-starter.git myProject
+cd myProject
 npm i
 npm run dev
 ```
