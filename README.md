@@ -4,7 +4,7 @@ simple lit-html and lit-element starter without bundler
 - [browser-sync](https://github.com/BrowserSync/browser-sync) for live reload server
 
 ### without bundler?
-yes, using js modules and pika web_modules folder
+yes, using ES module syntax and pika web_modules folder
 
 ### build
 this starter doesn't have build mode so you can use any bundler you need and prefer
