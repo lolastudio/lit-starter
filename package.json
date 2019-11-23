@@ -1,0 +1,19 @@
+{
+  "name": "lit-starter",
+  "description": "take your notes",
+  "keywords": ["lit-element", "lit-html", "lit-starter"],
+  "version": "1.0.0",
+  "author": "roquef",
+  "scripts": {
+    "dev": "browser-sync start --server --files **/*",
+    "postinstall": "pika install"
+  },
+  "dependencies": {
+    "lit-element": "^2.2.1",
+    "lit-html": "^1.1.2"
+  },
+  "devDependencies": {
+    "@pika/web": "^0.6.1",
+    "browser-sync": "^2.26.7"
+  }
+}
