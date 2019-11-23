@@ -1,7 +1,7 @@
 # lit-starter
 simple lit-html and lit-element starter without bundler
-- @pika/web for web_modules
-- browser-sync for live reload server
+- [@pika/web](https://github.com/pikapkg/web) for web_modules
+- [browser-sync](https://github.com/BrowserSync/browser-sync) for live reload server
 
 ### without bundler?
 yes, using js modules and pika web_modules folder
