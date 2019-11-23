@@ -1,5 +1,5 @@
 # lit-starter
-simple lit html and lit-element starter without bundler
+simple lit-html and lit-element starter without bundler
 
 ### relays in:
 - @pika/web for web_modules
