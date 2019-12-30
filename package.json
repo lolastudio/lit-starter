@@ -1,12 +1,17 @@
 {
   "name": "lit-starter",
   "description": "simple lit-html + lit-element starter without bundler",
-  "keywords": ["lit-element", "lit-html", "lit-starter"],
+  "keywords": [
+    "lit-element",
+    "lit-html",
+    "lit-starter"
+  ],
   "version": "1.0.0",
   "author": "roquef",
   "scripts": {
-    "dev": "browser-sync start --server --files **/*",
-    "postinstall": "pika install"
+    "dev": "es-dev-server --app-index index.html --node-resolve --dedupe --watch --open",
+    "postinstall": "pika install",
+    "conjurate:component": "conjurate component "
   },
   "dependencies": {
     "lit-element": "^2.2.1",
@@ -14,6 +19,7 @@
   },
   "devDependencies": {
     "@pika/web": "^0.6.1",
-    "browser-sync": "^2.26.7"
+    "conjurate": "^0.6.0",
+    "es-dev-server": "^1.34.0"
   }
 }

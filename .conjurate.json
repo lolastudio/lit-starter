@@ -1,0 +1,6 @@
+{
+  "templatesSource": "./components/templates",
+  "templates": {
+    "component": "./components"
+  }
+}
