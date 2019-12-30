@@ -6,7 +6,8 @@ yes, using js native module system and [pika](https://www.pika.dev/about/) web_m
 
 ### dependencies
 - [@pika/web](https://github.com/pikapkg/web) for web_modules
-- [browser-sync](https://github.com/BrowserSync/browser-sync) for live reload server
+- [open-wc es-dev-server](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server) for live reload server
+- [conjurate](https://github.com/filipelinhares/conjurate) for templated components
 
 ### build
 - this starter doesn't have build mode so you can use any bundler you need and prefer
@@ -21,4 +22,9 @@ git clone https://github.com/roquef/lit-starter.git myProject
 cd myProject
 npm i
 npm run dev
+```
+
+### generating new components
+```console
+npm run conjurate:component my-component
 ```

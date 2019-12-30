@@ -1,1 +1,1 @@
-import './hello-web.js';
+import './hello-web/hello-web.js';
