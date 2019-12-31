@@ -1,5 +1,5 @@
 # lit-starter
-simple lit-html and lit-element starter without bundler
+lit-html and lit-element starter without bundler
 
 ### without bundler?
 yes, using js native module system and [pika](https://www.pika.dev/about/) web_modules folder
