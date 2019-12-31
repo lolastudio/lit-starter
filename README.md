@@ -17,7 +17,7 @@ yes, using js native module system and [pika](https://www.pika.dev/about/) web_m
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#Browser_support
 
 ### get started
-```console
+```bash
 git clone https://github.com/roquef/lit-starter.git myProject
 cd myProject
 npm i
@@ -25,6 +25,6 @@ npm run dev
 ```
 
 ### generating new components
-```console
+```bash
 npm run conjurate:component my-component
 ```
