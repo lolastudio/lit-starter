@@ -6,7 +6,7 @@ yes, using js native module system and [pika](https://www.pika.dev/about/) web_m
 
 ### dependencies
 - [@pika/web](https://github.com/pikapkg/web) for web_modules
-- [open-wc/es-dev-server](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server) for live reload server
+- [@open-wc/es-dev-server](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server) for live reload server
 - [conjurate](https://github.com/filipelinhares/conjurate) for templated components
 
 ### build
