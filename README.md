@@ -23,7 +23,7 @@ npm run dev
 
 ### generating new components
 ```bash
-npm run conjurate:component my-component
+npm run conjurate my-component
 ```
 
 ### browser support
