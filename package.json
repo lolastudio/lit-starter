@@ -11,7 +11,7 @@
   "scripts": {
     "dev": "es-dev-server --app-index index.html --node-resolve --dedupe --watch --open",
     "postinstall": "pika install",
-    "conjurate:component": "conjurate component "
+    "conjurate": "conjurate component "
   },
   "dependencies": {
     "lit-element": "^2.2.1",
