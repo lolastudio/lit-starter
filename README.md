@@ -4,7 +4,7 @@ lit-html and lit-element starter without bundler
 ### without bundler?
 yes, using js native module system and [snowpack](https://www.snowpack.dev/#what-is-snowpack%3F) web_modules folder
 
-### dependencies
+### dev dependencies
 - [@open-wc/es-dev-server](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server) for live reload server
 - [conjurate](https://github.com/filipelinhares/conjurate) for templated components
 
