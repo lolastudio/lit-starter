@@ -5,13 +5,12 @@ class %pascal-case% extends LitElement {
 		super();
 	}
 
-	get styles() {
+	static get styles() {
 		return css``;
 	}
 
 	render() {
 		return html`
-			<style>${this.styles}</style>
 			%dash-case% web component
 		`;
 	}
