@@ -13,6 +13,11 @@ yes, using js native module system and [snowpack](https://www.snowpack.dev/#what
 - by default, this starter is served as static site without bundler
 
 ### get started
+use this repository as template
+
+or
+
+
 ```bash
 git clone https://github.com/roquef/lit-starter.git myProject
 cd myProject
