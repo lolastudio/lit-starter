@@ -21,6 +21,11 @@ or
 ```bash
 git clone https://github.com/roquef/lit-starter.git myProject
 cd myProject
+```
+
+then
+
+```bash
 npm i
 npm run dev
 ```
