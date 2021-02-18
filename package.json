@@ -10,7 +10,7 @@
   "author": "roquef",
   "scripts": {
     "dev": "es-dev-server --app-index index.html --node-resolve --dedupe --watch --open",
-    "postinstall": "npx snowpack",
+    "postinstall": "npx snowpack@2 install",
     "conjurate": "conjurate component "
   },
   "dependencies": {
